@@ -103,8 +103,4 @@ class UsersController extends Controller
             'user' => $user,
         ], 200);
     }
-
-    function checkOutProducts(){
-        
-    }
 }
